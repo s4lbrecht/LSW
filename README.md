@@ -13,10 +13,10 @@
 - Konzeption Customer Journey als Flow Diagramm
 - Abstimmung IT Anforderungen mit T. Schnoor
 
-## Taubert
+## L-Strom.Drive & Sonstiges
 - Erstellung GUI Mockup basierend auf Taubert
-- Inhaltliche Absprache mit B. Stollberg
-
-## Sonstiges
+- dazu Inhaltliche Absprache mit B. Stollberg
 - L-Strom.Drive EMP Test VW Ladesäule
 - Discreet Feedback
+- Reservierungsfunktion: Öffnungszeiten sauber abfragen
+
