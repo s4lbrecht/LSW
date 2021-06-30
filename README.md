@@ -2,7 +2,8 @@
 Stand: 29.06.21
 
 ## SPARCS
-- Cenero: Nachhaken SMGWs
+- Use Case Zuarbeit
+- Cenero: SMGWs Baumwollspinnerei
 - Epler: Messsysteme für WSL
 - Bestandsaufnahme für Zwischenbericht
 - LVB & Fraunhofer IAO Abstimmung, bzgl.  Daten, Schnittstelle 
